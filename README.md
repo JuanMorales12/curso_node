@@ -1,4 +1,4 @@
-#Notas:
+# Notas:
 
 Mi primer programa en Node
 
